@@ -1,4 +1,7 @@
 # Structure-emphasized Multimodal Style Transfer
+![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3602064.svg)
+
+
 Pytorch(1.0+) implementation of My master paper ["Structure-emphasized Multimodal Style Transfer"](https://drive.google.com/open?id=1TbbuokSGiPBaHcCwlxA7dHIfNKcTDZ9N).
 
 We proposed 2 models, called SEMST_Original and SEMST_Auto in this work. More details can be founed in the paper.
@@ -28,10 +31,10 @@ If you find this work useful for you, please cite it as follow in your paper. Th
   author = {Chen Chen},
   title = {Structure-emphasized Multimodal Style Transfer},
   year = {2020},
-  month = 2,
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer}},
+  month = 1,
+  doi = 10.5281/zenodo.3602064
+  publisher = {Zenodo},
+  url = {https://doi.org/10.5281/zenodo.3602064},
 }
 ```
 ---
