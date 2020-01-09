@@ -89,14 +89,14 @@ Anaconda environment recommended here!
 
 Some results of content image will be shown here.
 
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_1.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_2.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_3.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_4.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_5.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_6.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_7.png)
-[image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_8.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_1.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_2.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_3.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_4.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_5.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_6.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_7.png)
+![image](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer/blob/master/result/5_8.png)
 
 ---
 If you find this work useful for you, please cite it as follow in your paper. Thanks a lot.
