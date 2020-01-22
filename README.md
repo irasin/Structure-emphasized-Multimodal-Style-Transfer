@@ -2,7 +2,7 @@
 ![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3602064.svg)
 
 
-Pytorch(1.0+) implementation of My master paper ["Structure-emphasized Multimodal Style Transfer"](https://drive.google.com/open?id=1TbbuokSGiPBaHcCwlxA7dHIfNKcTDZ9N).
+Pytorch(1.0+) implementation of My master paper ["Structure-emphasized Multimodal Style Transfer"]().
 
 We proposed 2 models, called SEMST_Original and SEMST_Auto in this work. More details can be founed in the paper.
 
